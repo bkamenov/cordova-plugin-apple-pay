@@ -20,6 +20,6 @@
             </feature>
         </config-file>
 
-        <source-file src="src/ios/ApplePayPlugin.swift" target-dir="src/ios" />
+        <source-file src="src/ios/ApplePayPlugin.swift"/>
     </platform>
 </plugin>
