@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-apple-pay",
+  "version": "1.0.0",
+  "description": "Cordova Plugin for Apple Pay",
+  "cordova": {
+    "id": "cordova-plugin-apple-pay",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bkamenov/cordova-plugin-apple-pay.git"
+  },
+  "keywords": [
+    "payments",
+    "apple pay",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Boris Kamenov",
+  "license": "Apache-2.0",
+  "engines": {
+    "cordovaDependencies": {
+      "cordova-ios": ">=4.5.0"
+    }
+  }
+}
