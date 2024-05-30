@@ -12,6 +12,10 @@
     "type": "git",
     "url": "https://github.com/bkamenov/cordova-plugin-apple-pay.git"
   },
+  "bugs": {
+    "url": "https://github.com/bkamenov/cordova-plugin-apple-pay/issues"
+  },
+  "homepage": "https://github.com/bkamenov/cordova-plugin-apple-pay",
   "keywords": [
     "payments",
     "apple pay",
